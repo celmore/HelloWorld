@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Hello Carl\'s World</string>
-    <string name="hello_worldTextlable">Hello World! Carl is the Man! I work with web apps with my job and now I will be doing Android apps.</string>
+    <string name="hello_worldTextlable">Hello World! This is yo Man Elmo! I work with web apps with my job and now I will be doing Android apps.</string>
     <string name="hello_btn">Say Hello</string>
 </resources>
